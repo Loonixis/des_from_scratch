@@ -2,9 +2,9 @@
 
 A small implementation of the Data Encryption Standard written in Python.
 
-I made this project to understand how DES works internally instead of relying on an existing cryptography library. The implementation includes the initial and final permutations, key scheduling, Feistel rounds, expansion, S-box substitution, and the P permutation.
+I made this project to understand how DES works internally instead of relying on an existing cryptography library. The implementation includes the initial and final permutations, key scheduling, Feistel rounds, expansion, S-box substitution, and P-box permutation.
 
-This is mainly a learning project. DES is outdated and should not be used to protect real data.
+This is mainly a learning project. It should be noted that DES is outdated and should not be used to protect real data.
 
 ## Implementations
 
